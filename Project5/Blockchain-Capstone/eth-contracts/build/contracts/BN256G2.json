@@ -72065,8 +72065,8 @@
     "version": "0.5.6+commit.b259423e.Emscripten.clang"
   },
   "networks": {},
-  "schemaVersion": "3.0.1",
-  "updatedAt": "2022-07-17T04:21:39.659Z",
+  "schemaVersion": "3.0.2",
+  "updatedAt": "2022-07-17T07:19:54.359Z",
   "devdoc": {
     "author": "Mustafa Al-Bassam (mus@musalbas.com)\r",
     "details": "Homepage: https://github.com/musalbas/solidity-BN256G2\r",
