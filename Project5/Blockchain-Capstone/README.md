@@ -38,6 +38,9 @@ To run test cases, go to eth-contracts folder and run:
   + Verifier: [```0x0555e59CC46205d98af0e8CD63bAdf275d4F9b81```](https://rinkeby.etherscan.io/address/0x0555e59CC46205d98af0e8CD63bAdf275d4F9b81)
   + SolnSquareVerifier: [```0xAC7A25CE4955ad113e8c156e28cD7883630307c9```](https://rinkeby.etherscan.io/address/0xAC7A25CE4955ad113e8c156e28cD7883630307c9)
 
+### OpenSea MarketPlace Storefront
+- Link to my assets: https://testnets.opensea.io/collection/bao-hong-token
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
