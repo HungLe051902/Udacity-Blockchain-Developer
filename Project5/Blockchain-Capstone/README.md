@@ -29,6 +29,14 @@ To run test cases, go to eth-contracts folder and run:
 ```truffle  test ```
 
 ### Deployment to Rinkeby
+- Update **infura-key** and **mnemonic** for Rinkeby Testnet migration in truffle-config.js
+- Run this command to migrate contract to Rinkeby:
+
+```truffle migrate --network rinkeby --reset```
+
+- Smart Contract Info
+  + Verifier: [```0x0555e59CC46205d98af0e8CD63bAdf275d4F9b81```](https://rinkeby.etherscan.io/address/0x0555e59CC46205d98af0e8CD63bAdf275d4F9b81)
+  + SolnSquareVerifier: [```0xAC7A25CE4955ad113e8c156e28cD7883630307c9```](https://rinkeby.etherscan.io/address/0xAC7A25CE4955ad113e8c156e28cD7883630307c9)
 
 # Project Resources
 
